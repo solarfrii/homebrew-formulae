@@ -1,4 +1,4 @@
-class NnnNf < Formula
+class Nnn < Formula
   desc "Tiny, lightning fast, feature-packed file manager (compiled with Nerd Fonts support)"
   homepage "https://github.com/jarun/nnn"
   url "https://github.com/jarun/nnn/archive/refs/tags/v4.9.tar.gz"
